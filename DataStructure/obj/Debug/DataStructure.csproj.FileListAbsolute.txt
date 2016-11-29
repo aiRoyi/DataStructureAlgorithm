@@ -1,0 +1,12 @@
+F:\C#\DataStructure\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+F:\C#\DataStructure\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+F:\C#\DataStructure\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+F:\C#\DataStructure\DataStructure\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+F:\C#\DataStructure\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+F:\C#\DataStructure\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
+E:\Data Structure and Algorithm\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+E:\Data Structure and Algorithm\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+E:\Data Structure and Algorithm\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
+E:\Data Structure and Algorithm\DataStructure\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+E:\Data Structure and Algorithm\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+E:\Data Structure and Algorithm\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
