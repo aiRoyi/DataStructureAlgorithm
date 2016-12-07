@@ -10,3 +10,9 @@ E:\Data Structure and Algorithm\DataStructure\DataStructure\obj\Debug\DataStruct
 E:\Data Structure and Algorithm\DataStructure\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
 E:\Data Structure and Algorithm\DataStructure\DataStructure\bin\Debug\DataStructure.exe
 E:\Data Structure and Algorithm\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+E:\DataStructureAlgorithm\DataStructure\bin\Debug\DataStructure.exe.config
+E:\DataStructureAlgorithm\DataStructure\bin\Debug\DataStructure.exe
+E:\DataStructureAlgorithm\DataStructure\bin\Debug\DataStructure.pdb
+E:\DataStructureAlgorithm\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+E:\DataStructureAlgorithm\DataStructure\obj\Debug\DataStructure.exe
+E:\DataStructureAlgorithm\DataStructure\obj\Debug\DataStructure.pdb

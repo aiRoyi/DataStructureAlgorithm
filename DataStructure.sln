@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{F2105BFD-E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure.LinearList.Test", "DataStructure.LinearList.Test\DataStructure.LinearList.Test.csproj", "{40739D8F-5AE4-4717-BAC3-9E96420CC64D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMPAlgorithm", "KMPAlgorithm\KMPAlgorithm.csproj", "{1EA09097-9FDF-4A84-8F86-5EC68B6BC73F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{40739D8F-5AE4-4717-BAC3-9E96420CC64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40739D8F-5AE4-4717-BAC3-9E96420CC64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40739D8F-5AE4-4717-BAC3-9E96420CC64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA09097-9FDF-4A84-8F86-5EC68B6BC73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA09097-9FDF-4A84-8F86-5EC68B6BC73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA09097-9FDF-4A84-8F86-5EC68B6BC73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA09097-9FDF-4A84-8F86-5EC68B6BC73F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +38,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6FF0DA86-E4F4-4C9D-B9D0-90419B23C96B} = {02F4A2D9-1FE6-4125-BAD7-FD6BDD8B4862}
 		{40739D8F-5AE4-4717-BAC3-9E96420CC64D} = {F2105BFD-E49B-47BD-9479-3BBEE4583182}
+		{1EA09097-9FDF-4A84-8F86-5EC68B6BC73F} = {02F4A2D9-1FE6-4125-BAD7-FD6BDD8B4862}
 	EndGlobalSection
 EndGlobal
